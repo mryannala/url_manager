@@ -1,4 +1,4 @@
-# 🔒 Links Bliss - Privacy-First Bookmark Guardian - A single HTML page
+# 🔒 Links Bliss (URL Manager) - Privacy-First Bookmark Guardian - A single HTML page
 
 **Your Ultimate Offline Bookmark Manager - Zero Servers, Zero Tracking, Total Control**
 
@@ -19,13 +19,14 @@ A **100% client-side** bookmark management solution that prioritizes your digita
 
 ## 🚀 Enterprise Features, Personal Privacy
 
-| Feature                | Benefit                                                                 |
-|------------------------|-------------------------------------------------------------------------|
-| **Offline-First**      | Works without internet - airplane mode friendly                        |
-| **Self-Destruct Mode** | Auto-clears data after browser closure (optional)                      |
-| **Secure Export**      | AES-256 encrypted JSON backups                                         |
-| **Favicon Proxy**      | Load icons through privacy-first [DuckDuckGo service](https://ddg.com) |
-| **Audit-Ready**        | Open-source code for full transparency ([MIT Licensed](LICENSE))   
+| Feature               | Benefit                                                          |
+|-----------------------|------------------------------------------------------------------|
+| **URL-Manager**       | URL Manager                                                      |
+| **Export and Import** | Share the urls with your team                                    |
+| **Offline-First**     | Works without internet - airplane mode friendly                  |
+| **Easy to use**       | Easy to use                                                      |
+| **Privacy**           | self-hosted privacy tool                                                     |
+| **Audit-Ready**       | Open-source code for full transparency ([MIT Licensed](LICENSE)) 
 
 ## 💻 Tech Specs for Security Engineers
 ```text
