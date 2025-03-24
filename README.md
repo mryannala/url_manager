@@ -45,10 +45,6 @@ Attack Surface Reduction:
 
 <img src="./read_me_images/2_URL_ADD.jpg" width="400" alt="Screenshot">
 
-![- Dark Mode ]
-
-<img src="./read_me_images/2_URL_dark_mode.jpg" width="400" alt="Screenshot">
-
 ![- Seach_Suggestions ]
 
 <img src="./read_me_images/3_Search_suggestions.jpg" width="400" alt="Screenshot">
